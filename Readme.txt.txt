@@ -1,0 +1,1 @@
+Bai tuan 1: class SinhVienTest dung de test class SinhVien voi cac thuoc tinh va phuong thuc cua minh.
